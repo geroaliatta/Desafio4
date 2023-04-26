@@ -1,0 +1,21 @@
+<section>
+    <h2>Real time products</h2>
+    {{#each products}}
+        <article>
+            <h3>{{this.title}}</h3>
+            <span>Categoría: {{this.category}}</span>
+            <p>Descripción: {{this.description}}</p>
+            <span>Precio: $ {{this.price}}</span>
+            {{#each this.thumbnail}}
+                <img src="{{this}}" alt="Imagen del juego">
+            {{/each}}
+            <buttononclick="deleteProduct({{this.id}})" id={{this.id}}>Borrar</button>
+        </article>
+    {{/each}}
+</section>
+<section>
+    <h2>Crear producto</h2>
+    <form action="">
+        
+    </form>
+</section>
