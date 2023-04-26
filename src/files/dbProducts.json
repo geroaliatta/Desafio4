@@ -1,0 +1,132 @@
+[
+	{
+		"title": "God of War",
+		"category": "Action",
+		"description": "Action",
+		"price": 4199,
+		"thumbnail": [
+			"not available"
+		],
+		"code": "AC1",
+		"stock": 25,
+		"status": "true",
+		"id": 1
+	},
+	{
+		"title": "Red Dead Redemption 2",
+		"category": "Adventure",
+		"description": "Adventure",
+		"price": 1299,
+		"thumbnail": [
+			"not available"
+		],
+		"code": "AV1",
+		"stock": 23,
+		"status": "true",
+		"id": 2
+	},
+	{
+		"title": "Gotham Knights",
+		"category": "Action",
+		"description": "Action",
+		"price": 5099,
+		"thumbnail": [
+			"not available"
+		],
+		"code": "AC2",
+		"stock": 19,
+		"status": "true",
+		"id": 3
+	},
+	{
+		"title": "Marvel’s Spider-Man Remastered",
+		"category": "Action",
+		"description": "Action",
+		"price": 4999,
+		"thumbnail": [
+			"not available"
+		],
+		"code": "AC3",
+		"stock": 29,
+		"status": "true",
+		"id": 4
+	},
+	{
+		"title": "Marvel’s Spider-Man: Miles Morales",
+		"category": "Action",
+		"description": "Action",
+		"price": 4999,
+		"thumbnail": [
+			"not available"
+		],
+		"code": "AC4",
+		"stock": 39,
+		"status": "true",
+		"id": 5
+	},
+	{
+		"title": "Horizon Zero Dawn™ Complete Edition",
+		"category": "Adventure",
+		"description": "Adventure",
+		"price": 4199,
+		"thumbnail": [
+			"not available"
+		],
+		"code": "AV2",
+		"stock": 43,
+		"status": "true",
+		"id": 6
+	},
+	{
+		"title": "Call of Duty®: Modern Warfare® II",
+		"category": "Shooter",
+		"description": "Shooter",
+		"price": 6990,
+		"thumbnail": [
+			"not available"
+		],
+		"code": "SH1",
+		"stock": 20,
+		"status": "true",
+		"id": 7
+	},
+	{
+		"title": "Battlefield™ V",
+		"category": "Shooter",
+		"description": "Shooter",
+		"price": 5299,
+		"thumbnail": [
+			"not available"
+		],
+		"code": "SH2",
+		"stock": 13,
+		"status": "true",
+		"id": 8
+	},
+	{
+		"title": "EA SPORTS™ FIFA 23",
+		"category": "Sports",
+		"description": "Sports",
+		"price": 8999,
+		"thumbnail": [
+			"not available"
+		],
+		"code": "SP1",
+		"stock": 48,
+		"status": "true",
+		"id": 9
+	},
+	{
+		"title": "F1® 22",
+		"category": "Sports",
+		"description": "Sports",
+		"price": 6399,
+		"thumbnail": [
+			"not available"
+		],
+		"code": "SP2",
+		"stock": 39,
+		"status": "true",
+		"id": 10
+	}
+]

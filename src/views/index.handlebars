@@ -1,0 +1,14 @@
+<section>
+    <h2>Productos</h2>
+    {{#each products}}
+        <article>
+            <h3>{{this.title}}</h3>
+            <span>Categoría: {{this.category}}</span>
+            <p>Descripción: {{this.description}}</p>
+            <span>Precio: $ {{this.price}}</span>
+            {{#each this.thumbnail}}
+                <img src="{{this}}" alt="Imagen del juego">
+            {{/each}}
+        </article>
+    {{/each}}
+</section>
